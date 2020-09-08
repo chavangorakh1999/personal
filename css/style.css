@@ -148,7 +148,9 @@ p {
   margin: 100px auto 100px;
   text-align: left;
 }
-
+.small-profile-icons{
+  width: 2rem;
+}
 
 .top-cloud {
   position: absolute;
